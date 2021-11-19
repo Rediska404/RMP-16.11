@@ -57,4 +57,3 @@ public class WorkoutDetailFragment extends Fragment {
             this.workoutId = id;
         }
     }
-}
